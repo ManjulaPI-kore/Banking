@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "FirstName": "Kayla",
+    "LastName": "Parker",
+    "Address": "558 Aiyana Flat",
+    "City": "West Zackaryview",
+    "Country": "Serbia",
+    "ZipCode": "03725-2934",
+    "AccountNumber": "02929664",
+    "Balance": "597.73",
+    "AccountType": "Savings"
+  },
+  {
+    "id": "2",
+    "FirstName": "Kayla",
+    "LastName": "Parker",
+    "Address": "558 Aiyana Flat",
+    "City": "West Zackaryview",
+    "Country": "Serbia",
+    "ZipCode": "03725-2934",
+    "AccountNumber": "02929664",
+    "Balance": "597.73",
+    "AccountType": "Current"
+  },
+  {
+    "id": "3",
+    "FirstName": "Mckayla",
+    "LastName": "Parker",
+    "Address": "0625 Abshire Orchard",
+    "City": "North Taurean",
+    "Country": "Brunei Darussalam",
+    "ZipCode": "76355",
+    "AccountNumber": "45021701",
+    "Balance": "327.18",
+    "AccountType": "Savings"
+  },
+  {
+    "id": "4",
+    "FirstName": "Alfreda",
+    "LastName": "Mohr",
+    "Address": "4910 Collins Track",
+    "City": "North Rubieview",
+    "Country": "India",
+    "ZipCode": "67520",
+    "AccountNumber": "79002116",
+    "Balance": "548.29",
+    "AccountType": "Savings"
+  },
+  {
+    "id": "5",
+    "FirstName": "Janis",
+    "LastName": "Hansen",
+    "Address": "9505 Breitenberg Street",
+    "City": "Marksport",
+    "Country": "Ukraine",
+    "ZipCode": "96374-4549",
+    "AccountNumber": "68410704",
+    "Balance": "805.18",
+    "AccountType": "Savings"
+  },
+  {
+    "id": "6",
+    "FirstName": "Darrel",
+    "LastName": "Koelpin",
+    "Address": "035 Schowalter Mill",
+    "City": "West Vesta",
+    "Country": "France",
+    "ZipCode": "25815",
+    "AccountNumber": "64378294",
+    "Balance": "642.85",
+    "AccountType": "Current"
+  },
+  {
+    "id": "7",
+    "FirstName": "Westley",
+    "LastName": "Runolfsdottir",
+    "Address": "380 Homenick Ridges",
+    "City": "Rudyfurt",
+    "Country": "Morocco",
+    "ZipCode": "15810",
+    "AccountNumber": "81744654",
+    "Balance": "890.82",
+    "AccountType": "Current"
+  },
+  {
+    "id": "8",
+    "FirstName": "Dudley",
+    "LastName": "Pouros",
+    "Address": "241 Liam Ways",
+    "City": "New Garfield",
+    "Country": "Singapore",
+    "ZipCode": "80330",
+    "AccountNumber": "36372885",
+    "Balance": "955.65",
+    "AccountType": "Current"
+  },
+  {
+    "id": "9",
+    "FirstName": "Evans",
+    "LastName": "Block",
+    "Address": "177 Bartoletti Key",
+    "City": "Faheystad",
+    "Country": "Lesotho",
+    "ZipCode": "82735",
+    "AccountNumber": "78166990",
+    "Balance": "33.63",
+    "AccountType": "Current"
+  },
+  {
+    "id": "10",
+    "FirstName": "Rolando",
+    "LastName": "Fahey",
+    "Address": "865 Ronaldo Underpass",
+    "City": "North Cristalhaven",
+    "Country": "Austria",
+    "ZipCode": "48219",
+    "AccountNumber": "30735796",
+    "Balance": "527.42",
+    "AccountType": "Current"
+  }
+]
