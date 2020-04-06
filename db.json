@@ -26,47 +26,5 @@
     "AccountNumber": "79002116",
     "Balance": "548.29",
     "AccountType": "Savings"
-  },
-  {
-    "FirstName": "Janis",
-    "LastName": "Hansen",
-    "AccountNumber": "68410704",
-    "Balance": "805.18",
-    "AccountType": "Savings"
-  },
-  {
-    "FirstName": "Darrel",
-    "LastName": "Koelpin",
-    "AccountNumber": "64378294",
-    "Balance": "642.85",
-    "AccountType": "Current"
-  },
-  {
-    "FirstName": "Westley",
-    "LastName": "Runolfsdottir",
-    "AccountNumber": "81744654",
-    "Balance": "890.82",
-    "AccountType": "Current"
-  },
-  {
-    "FirstName": "Dudley",
-    "LastName": "Pouros",
-    "AccountNumber": "36372885",
-    "Balance": "955.65",
-    "AccountType": "Current"
-  },
-  {
-    "FirstName": "Evans",
-    "LastName": "Block",
-    "AccountNumber": "78166990",
-    "Balance": "33.63",
-    "AccountType": "Current"
-  },
-  {
-    "FirstName": "Rolando",
-    "LastName": "Fahey",
-    "AccountNumber": "30735796",
-    "Balance": "527.42",
-    "AccountType": "Current"
   }
 ]
